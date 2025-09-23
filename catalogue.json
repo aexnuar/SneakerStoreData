@@ -1,10 +1,18 @@
 
+
 [
   {
     "brand": "Acne Studios",
     "sneaker": "Текстильные кеды",
     "price": "39 950",
-    "sizesAvailable": ["40", "41", "42", "43", "44", "45"],
+    "sizesAvailable": [
+        { "type": "size40", "value": "40", "inStock": true },
+        { "type": "size41", "value": "41", "inStock": true },
+        { "type": "size42", "value": "42", "inStock": true },
+        { "type": "size43", "value": "43", "inStock": true },
+        { "type": "size44", "value": "44", "inStock": true },
+        { "type": "size45", "value": "45", "inStock": true }
+    ],
     "sneakerImages": [
       "https://raw.githubusercontent.com/aexnuar/SneakerStoreData/main/images/AcneStudios-1.jpg",
       "https://raw.githubusercontent.com/aexnuar/SneakerStoreData/main/images/AcneStudios-2.jpg",
@@ -18,7 +26,14 @@
     "brand": "Rick Owens",
     "sneaker": "Кожаные кеды Hollywood Jumbolace",
     "price": "114 000",
-    "sizesAvailable": ["40", "41", "42", "43", "44", "45"],
+    "sizesAvailable": [
+        { "type": "size40", "value": "40", "inStock": true },
+        { "type": "size41", "value": "41", "inStock": true },
+        { "type": "size42", "value": "42", "inStock": true },
+        { "type": "size43", "value": "43", "inStock": true },
+        { "type": "size44", "value": "44", "inStock": true },
+        { "type": "size45", "value": "45", "inStock": true }
+    ],
     "sneakerImages": [
       "https://raw.githubusercontent.com/aexnuar/SneakerStoreData/main/images/RickOwens-1.jpg",
       "https://raw.githubusercontent.com/aexnuar/SneakerStoreData/main/images/RickOwens-3.jpg",
@@ -33,7 +48,14 @@
     "brand": "Burberry",
     "sneaker": "Кеды Bubble",
     "price": "84 950",
-    "sizesAvailable": ["40", "41", "42", "43", "44", "45"],
+    "sizesAvailable": [
+        { "type": "size40", "value": "40", "inStock": true },
+        { "type": "size41", "value": "41", "inStock": true },
+        { "type": "size42", "value": "42", "inStock": true },
+        { "type": "size43", "value": "43", "inStock": true },
+        { "type": "size44", "value": "44", "inStock": true },
+        { "type": "size45", "value": "45", "inStock": true }
+    ],
     "sneakerImages": [
       "https://raw.githubusercontent.com/aexnuar/SneakerStoreData/main/images/Burberry-1.jpg",
       "https://raw.githubusercontent.com/aexnuar/SneakerStoreData/main/images/Burberry-2.jpg",
@@ -48,7 +70,14 @@
     "brand": "Balenciaga",
     "sneaker": "Текстильные кеды Paris",
     "price": "99 500",
-    "sizesAvailable": ["40", "41", "42", "43", "44", "45"],
+    "sizesAvailable": [
+        { "type": "size40", "value": "40", "inStock": true },
+        { "type": "size41", "value": "41", "inStock": true },
+        { "type": "size42", "value": "42", "inStock": true },
+        { "type": "size43", "value": "43", "inStock": true },
+        { "type": "size44", "value": "44", "inStock": true },
+        { "type": "size45", "value": "45", "inStock": true }
+    ],
     "sneakerImages": [
       "https://raw.githubusercontent.com/aexnuar/SneakerStoreData/main/images/Balenciaga-1.jpg",
       "https://raw.githubusercontent.com/aexnuar/SneakerStoreData/main/images/Balenciaga-2.jpg",
@@ -62,7 +91,14 @@
     "brand": "Crime London",
     "sneaker": "Комбинированные кеды Skate",
     "price": "25 000",
-    "sizesAvailable": ["40", "41", "42", "43", "44", "45"],
+    "sizesAvailable": [
+        { "type": "size40", "value": "40", "inStock": true },
+        { "type": "size41", "value": "41", "inStock": true },
+        { "type": "size42", "value": "42", "inStock": true },
+        { "type": "size43", "value": "43", "inStock": true },
+        { "type": "size44", "value": "44", "inStock": true },
+        { "type": "size45", "value": "45", "inStock": true }
+    ],
     "sneakerImages": [
       "https://raw.githubusercontent.com/aexnuar/SneakerStoreData/main/images/CrimeLondon-1.jpg",
       "https://raw.githubusercontent.com/aexnuar/SneakerStoreData/main/images/CrimeLondon-2.jpg",
@@ -77,7 +113,14 @@
     "brand": "Dolce & Gabbana",
     "sneaker": "Комбинированные кеды",
     "price": "75 000",
-    "sizesAvailable": ["40", "41", "42", "43", "44", "45"],
+    "sizesAvailable": [
+        { "type": "size40", "value": "40", "inStock": true },
+        { "type": "size41", "value": "41", "inStock": true },
+        { "type": "size42", "value": "42", "inStock": true },
+        { "type": "size43", "value": "43", "inStock": true },
+        { "type": "size44", "value": "44", "inStock": true },
+        { "type": "size45", "value": "45", "inStock": true }
+    ],
     "sneakerImages": [
       "https://raw.githubusercontent.com/aexnuar/SneakerStoreData/main/images/DolceAndGabbana-1.jpg",
       "https://raw.githubusercontent.com/aexnuar/SneakerStoreData/main/images/DolceAndGabbana-2.jpg",
@@ -91,7 +134,14 @@
     "brand": "Mattia Capezzani",
     "sneaker": "Текстильные кеды Mamba",
     "price": "68 750",
-    "sizesAvailable": ["40", "41", "42", "43", "44", "45"],
+    "sizesAvailable": [
+        { "type": "size40", "value": "40", "inStock": true },
+        { "type": "size41", "value": "41", "inStock": true },
+        { "type": "size42", "value": "42", "inStock": true },
+        { "type": "size43", "value": "43", "inStock": true },
+        { "type": "size44", "value": "44", "inStock": true },
+        { "type": "size45", "value": "45", "inStock": true }
+    ],
     "sneakerImages": [
       "https://raw.githubusercontent.com/aexnuar/SneakerStoreData/main/images/MattiaCapezzani-1.jpg",
       "https://raw.githubusercontent.com/aexnuar/SneakerStoreData/main/images/MattiaCapezzani-2.jpg",
@@ -106,7 +156,14 @@
     "brand": "Ann Demeulemeester",
     "sneaker": "Замшевые кеды Nono",
     "price": "93 600",
-    "sizesAvailable": ["40", "41", "42", "43", "44", "45"],
+    "sizesAvailable": [
+        { "type": "size40", "value": "40", "inStock": true },
+        { "type": "size41", "value": "41", "inStock": true },
+        { "type": "size42", "value": "42", "inStock": true },
+        { "type": "size43", "value": "43", "inStock": true },
+        { "type": "size44", "value": "44", "inStock": true },
+        { "type": "size45", "value": "45", "inStock": true }
+    ],
     "sneakerImages": [
       "https://raw.githubusercontent.com/aexnuar/SneakerStoreData/main/images/AnnDemeulemeester-1.jpg",
       "https://raw.githubusercontent.com/aexnuar/SneakerStoreData/main/images/AnnDemeulemeester-2.jpg",
@@ -119,4 +176,6 @@
     ]
   }
 ]
+
+
 
