@@ -20,7 +20,8 @@
             "https://raw.githubusercontent.com/aexnuar/SneakerStoreData/main/images/AcneStudios-4.jpg",
             "https://raw.githubusercontent.com/aexnuar/SneakerStoreData/main/images/AcneStudios-5.jpg",
             "https://raw.githubusercontent.com/aexnuar/SneakerStoreData/main/images/AcneStudios-6.jpg"
-        ]
+        ],
+        "isFavorite": false
     },
     {
         "id": "2",
@@ -43,7 +44,8 @@
             "https://raw.githubusercontent.com/aexnuar/SneakerStoreData/main/images/RickOwens-6.jpg",
             "https://raw.githubusercontent.com/aexnuar/SneakerStoreData/main/images/RickOwens-7.jpg",
             "https://raw.githubusercontent.com/aexnuar/SneakerStoreData/main/images/RickOwens-8.jpg"
-        ]
+        ],
+        "isFavorite": false
     },
     {
         "id": "3",
@@ -66,7 +68,8 @@
             "https://raw.githubusercontent.com/aexnuar/SneakerStoreData/main/images/Burberry-5.jpg",
             "https://raw.githubusercontent.com/aexnuar/SneakerStoreData/main/images/Burberry-6.jpg",
             "https://raw.githubusercontent.com/aexnuar/SneakerStoreData/main/images/Burberry-7.jpg"
-        ]
+        ],
+        "isFavorite": false
     },
     {
         "id": "4",
@@ -88,7 +91,8 @@
             "https://raw.githubusercontent.com/aexnuar/SneakerStoreData/main/images/Balenciaga-4.jpg",
             "https://raw.githubusercontent.com/aexnuar/SneakerStoreData/main/images/Balenciaga-5.jpg",
             "https://raw.githubusercontent.com/aexnuar/SneakerStoreData/main/images/Balenciaga-6.jpg"
-        ]
+        ],
+        "isFavorite": false
     },
     {
         "id": "5",
@@ -111,7 +115,8 @@
             "https://raw.githubusercontent.com/aexnuar/SneakerStoreData/main/images/CrimeLondon-5.jpg",
             "https://raw.githubusercontent.com/aexnuar/SneakerStoreData/main/images/CrimeLondon-6.jpg",
             "https://raw.githubusercontent.com/aexnuar/SneakerStoreData/main/images/CrimeLondon-7.jpg"
-        ]
+        ],
+        "isFavorite": false
     },
     {
         "id": "6",
@@ -133,7 +138,8 @@
             "https://raw.githubusercontent.com/aexnuar/SneakerStoreData/main/images/DolceAndGabbana-4.jpg",
             "https://raw.githubusercontent.com/aexnuar/SneakerStoreData/main/images/DolceAndGabbana-5.jpg",
             "https://raw.githubusercontent.com/aexnuar/SneakerStoreData/main/images/DolceAndGabbana-6.jpg"
-        ]
+        ],
+        "isFavorite": false
     },
     {
         "id": "7",
@@ -156,7 +162,8 @@
             "https://raw.githubusercontent.com/aexnuar/SneakerStoreData/main/images/MattiaCapezzani-5.jpg",
             "https://raw.githubusercontent.com/aexnuar/SneakerStoreData/main/images/MattiaCapezzani-6.jpg",
             "https://raw.githubusercontent.com/aexnuar/SneakerStoreData/main/images/MattiaCapezzani-7.jpg"
-        ]
+        ],
+        "isFavorite": false
     },
     {
         "id": "8",
@@ -180,7 +187,8 @@
             "https://raw.githubusercontent.com/aexnuar/SneakerStoreData/main/images/AnnDemeulemeester-6.jpg",
             "https://raw.githubusercontent.com/aexnuar/SneakerStoreData/main/images/AnnDemeulemeester-7.jpg",
             "https://raw.githubusercontent.com/aexnuar/SneakerStoreData/main/images/AnnDemeulemeester-8.jpg"
-        ]
+        ],
+        "isFavorite": false
     }
 ]
 
